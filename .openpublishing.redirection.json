@@ -1,0 +1,14 @@
+{
+	"redirections": [
+		{
+			"source_path": "docsarchivedemoarchived/using-your-ios-or-macos-device-with-intune.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoSrc/using-your-iOS-or-macOS-device-with-intune",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemoarchived/using-your-windows-device-with-intune.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoSrc/using-your-windows-device-with-intune",
+			"redirect_document_id": false
+		}
+	]
+}
